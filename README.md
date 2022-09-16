@@ -1,4 +1,4 @@
-# design-patterns
+# Design Patterns
 Meus estudos sobre Design Patterns.
 
 # Padrões estudados:
